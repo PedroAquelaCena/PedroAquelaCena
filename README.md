@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAquelaCena&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PedroAquelaCena&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PedroAquelaCena/github-readme-stats#gh-light-mode-only)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
